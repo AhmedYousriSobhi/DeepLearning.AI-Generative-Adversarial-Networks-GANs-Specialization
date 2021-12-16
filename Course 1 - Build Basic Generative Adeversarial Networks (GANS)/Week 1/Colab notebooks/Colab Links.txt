@@ -1,0 +1,2 @@
+Pre-Trained Model Exploration : https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C1W1_(Colab)_Pre_trained_model_exploration.ipynb 
+Inputs to a Pre-trained GAN : https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C1W1_(Colab)_Inputs_to_a_pre_trained_GAN.ipynb
