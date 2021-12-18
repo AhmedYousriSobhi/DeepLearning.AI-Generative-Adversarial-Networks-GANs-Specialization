@@ -19,3 +19,10 @@ Course 1: Build Basic Generative Adversarial Networks (GANS)
 - Week 3: Wasserstein GANs with Gradient Penalty
 
 - Week 4: Conditional GAN & Controllable Generation
+
+Course 2 : Build Better Generative Adversarial Networks (GANs)
+- Week 1: GAN Evaluation
+
+- Week 2: GAN Disadvantages and Bias
+
+- Week 3: StyleGAN and Advancements
